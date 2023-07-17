@@ -1,0 +1,36 @@
+html {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 12px;
+    background-color: #7AA84B;
+}
+  
+.index_icon {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    display: block;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 2px 2px 1px black;
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(60, 103, 103);
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: aqua;
+    padding: 0 20px 20px 20px;
+    border: 5px solid pink;
+}
